@@ -16,4 +16,3 @@ Vue 3 + Spring Boot 电商演示项目。
 ## 许可证
 
 私有/学习用途请自行约定。
-"# e-commerce" 
