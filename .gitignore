@@ -1,0 +1,22 @@
+# 本地敏感配置（克隆后复制 application.example.yml 为 application.yml）
+e-commerce-backend/src/main/resources/application.yml
+
+# Backend
+e-commerce-backend/target/
+e-commerce-backend/.idea/
+*.class
+
+# Frontend
+e-commerce-frontend/node_modules/
+e-commerce-frontend/dist/
+e-commerce-frontend/.vite/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# Cursor / local
+.cursor/
